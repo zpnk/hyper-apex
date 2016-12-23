@@ -5,14 +5,17 @@ const ocGray5   = '#adb5bd'
 const ocGray6   = '#868e96'
 const ocGray7   = '#495057'
 const ocGray9   = '#212529'
+const soWhite   = '#FFFFFE'
+const apexBlue  = '#00BAFF'
+
 
 const lightGray = ocGray6
 const darkGray  = ocGray7
 
 const foregroundColor = darkGray
-const backgroundColor = white
-const borderColor     = white
-const cursorColor     = '#00BAFF'
+const backgroundColor = soWhite
+const borderColor     = soWhite
+const cursorColor     = apexBlue
 
 const colors = {
   black,
