@@ -1,6 +1,6 @@
 # hyper-apex
 
-> Monochrome [Hyper](http://hyper.is) theme based on the [Apex theme](https://github.com/apex/apex-ui) for AT.
+> Monochrome [Hyper](http://hyper.is) theme based on the [Apex Atom theme](https://github.com/apex/apex-ui).
 
 ![](screenshot.png)
 
