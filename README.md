@@ -2,7 +2,7 @@
 
 > Atom's [Apex theme](https://github.com/apex/apex-ui) for [Hyper](http://hyper.is)
 
-(screenshot coming soon)
+![](screenshot.png)
 
 ## Install
 
