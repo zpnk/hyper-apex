@@ -1,0 +1,16 @@
+{
+  "name": "hyper-apex",
+  "version": "0.1.0",
+  "description": "Monochrome Hyper theme based on the Apex UI theme for Atom.",
+  "main": "index.js",
+  "repository": "https://github.com/zpnk/hyper-apex",
+  "keywords": [
+    "hyper",
+    "theme",
+    "monochrome",
+    "ia",
+    "writer"
+  ],
+  "author": "@zpnk",
+  "license": "MIT"
+}
